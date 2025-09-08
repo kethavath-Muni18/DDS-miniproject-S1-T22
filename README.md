@@ -1,4 +1,3 @@
-# -DDS-miniproject_S1-T22
 # Automatic Visitor Counter and Power Control
 # Abstract
 Details
